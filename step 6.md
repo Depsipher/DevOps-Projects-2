@@ -1,4 +1,3 @@
-# STEP 6 - Retrieving Data from MySQL database with PHP (continued)
 # STEP 6 – RETRIEVING DATA FROM MYSQL DATABASE WITH PHP (CONTINUED)
 
 In this step you will create a test database (DB) with simple "To do list" and configure access to it, so the Nginx website would be
