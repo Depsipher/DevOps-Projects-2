@@ -142,6 +142,9 @@ in your browser by public DNS name, not only by IP – try it out, the result mu
 http://<Public-DNS-Name>:80
 ```
 
+![project 2_step 4 ](https://github.com/Depsipher/DevOps-Projects-2/assets/138725118/cebd70c3-6e67-4d6a-b90b-8df9a8cf3258)
+
+
 You can leave this file in place as a temporary landing page for your application until you set up an index.php file to replace it. 
 Once you do that, remember to remove or rename the index.html file from your document root, as it would take precedence over an
 index.php file by default.
