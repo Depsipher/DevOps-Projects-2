@@ -1,12 +1,4 @@
-# STEP 5 - Testing PHP with Nginx
-The LEMP stack is now completely set up.
-
-To test PHP file in your document root, open a new file called info.php within document root in the nano text editor:
-```
-sudo nano /var/www/projectLEMP/info.php
-```
-
- # STEP 5 – TESTING PHP WITH NGINX
+# STEP 5 – TESTING PHP WITH NGINX
 
 Your LEMP stack should now be completely set up.
 
